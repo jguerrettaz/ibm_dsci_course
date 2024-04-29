@@ -1,2 +1,2 @@
 # ibm_dsci_course
-Repository for Coursera IBM Data Science course
+Repository for Coursera IBM Data Science Specialization
